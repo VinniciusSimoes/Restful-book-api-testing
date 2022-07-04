@@ -8,7 +8,7 @@
       "name": "RSpec - active spec file only",
       "type": "Ruby",
       "request": "launch",
-      "program": "C:/Ruby25-x64/bin/rspec",
+      "program": "C:/Ruby26-x64/bin/rspec",
       "args": ["-I", "${workspaceRoot}", "${file}"]
     }
   ]
